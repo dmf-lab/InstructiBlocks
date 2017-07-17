@@ -9,10 +9,15 @@ The RFID reader is ID-12LA 125 kHz (https://www.sparkfun.com/products/11827), wi
 
 Wiring: 
 RFID ->  Arduino Mega
+
 Vcc -> 5v
+
 GND -> GND
+
 D0  -> RX1
+
 TIR -> digital pin 3
+
 
 The tags were just blue-tacked into the LEGO bricks. The bricks must be 2x2s or larger to fit the tags in.
 
